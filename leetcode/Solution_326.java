@@ -1,8 +1,8 @@
 package pdpuz;
 
-public class Soultion_326 {
+public class Solution_326 {
     public static void main(String[] args) {
-        Soultion_326 soultion326 = new Soultion_326();
+        Solution_326 soultion326 = new Solution_326();
 
         int n = 45;
         System.out.println(soultion326.isPowerOfThree(n));
