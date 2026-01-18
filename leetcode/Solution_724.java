@@ -22,6 +22,6 @@ public class Solution_724 {
             presum += nums[i];
         }
         return -1;
-
+    
     }
 }
